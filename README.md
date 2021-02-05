@@ -1,5 +1,10 @@
+# A script to automatically append google fit data to google sheets.
+Runs using google scripts so no need to host anything
+
 ![alt text](screenshot.png "screenshot")
 
+
+vauge instructions that may be missing a step or two:
 
 Create or open a spreadsheet in Google Sheets. Have a tab called "History"
 Select the menu item Tools > Script editor.
